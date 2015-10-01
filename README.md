@@ -10,6 +10,9 @@ I had some some problems creating timelapses of my screen with the current progr
 - Clean, comment and remove old code.
 - Make the functionality of selecting a custom area for recording better.
 
+
+
+***
 >This is the thing
 ![alt tag](http://mellemhere.com/img/timelapser.PNG)
 
